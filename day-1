@@ -1,8 +1,8 @@
-#what is DevOps?
+# **What is DevOps?**
 
 DevOps is a set of practices, principles, and cultural philosophies that aim to improve collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal of DevOps is to shorten the software development lifecycle while delivering features, fixes, and updates frequently in close alignment with business objectives.
 
-Key aspects of DevOps include:
+**Key aspects of DevOps include:**
 1. **Collaboration**: Breaking down silos between development and operations teams to foster better communication and teamwork.
 2. **Automation**: Using tools and scripts to automate repetitive tasks such as code integration,
 testing, deployment, and infrastructure management.
@@ -14,14 +14,13 @@ release to production, allowing for faster and more reliable deployments.
 resolve issues quickly, as well as to gather insights for future improvements.
 6. **Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through
 machine-readable configuration files, rather than through physical hardware or interactive
-configuration tools.
 7. **Cultural Shift**: Promoting a culture of shared responsibility, learning from failures, and
 embracing change.
 
-By adopting DevOps practices, organizations can achieve faster delivery of high-quality software, improved customer satisfaction, and greater agility in responding to market changes.
+**By adopting DevOps practices, organizations can achieve faster delivery of high-quality software, improved customer satisfaction, and greater agility in responding to market changes.**
 
 
-DevOps vs Traditional IT: 
+**DevOps vs Traditional IT:**
 | Aspect                     | Traditional IT                          | DevOps                                   |     
 |----------------------------|----------------------------------------|------------------------------------------|
 
@@ -34,7 +33,6 @@ DevOps vs Traditional IT:
 | Infrastructure Management  | Manual configuration                   | Infrastructure as Code (IaC)             |
 | Release Process            | Manual, error-prone                    | Automated, reliable                      |
 | Testing                    | Manual testing                         | Automated testing                        |
-| Scalability                | Limited scalability                    | Highly scalable                          |
 | Responsiveness to Change   | Slow to adapt                          | Agile and responsive                     |
 | Customer Satisfaction      | Variable                               | High and consistent                      |
 | Cost Efficiency            | Higher operational costs               | Reduced costs through automation         |
@@ -42,8 +40,8 @@ DevOps vs Traditional IT:
 
 
 
-#DevOps Lifecycle
-The DevOps lifecycle is a continuous process that encompasses various stages of software development and operations, aiming to streamline the delivery of high-quality software. The key stages of the DevOps lifecycle include:
+# **DevOps Lifecycle**
+**The DevOps lifecycle is a continuous process that encompasses various stages of software development and operations, aiming to streamline the delivery of high-quality software. The key stages of the DevOps lifecycle include:**
 
 1. **Planning**: This stage involves defining the project requirements, setting goals, and creating a roadmap for development. Collaboration between development and operations teams is crucial to ensure alignment with business objectives.
 2. **Development**: In this stage, developers write code and build the application. Version control systems (e.g., Git) are used to manage code changes and facilitate collaboration among team members.
@@ -52,7 +50,6 @@ multiple times a day. Automated builds and tests are triggered to identify and r
 4. **Continuous Testing**: Automated tests are executed to validate the functionality, performance, and
 security of the application. This stage ensures that code changes do not introduce new bugs or vulnerabilities.
 5. **Continuous Deployment (CD)**: In this stage, code changes that pass automated tests
-are automatically deployed to production or staging environments. This allows for rapid and reliable releases.
 6. **Monitoring and Logging**: Continuous monitoring of applications and infrastructure is essential to
 identify performance issues, errors, and security threats. Logging provides insights into system behavior and helps in
 troubleshooting problems.
@@ -65,10 +62,10 @@ collaboration between development, operations, and other stakeholders are essent
 that security is considered at every stage, from planning to deployment.
 
 
-By following the DevOps lifecycle, organizations can achieve faster delivery of software, improved quality, and greater agility in responding to changing business needs.
+**By following the DevOps lifecycle, organizations can achieve faster delivery of software, improved quality, and greater agility in responding to changing business needs.**
 
 
-Prerequiste for this course:
+**Prerequisites for this course:**
 
 1. Github Account 
 2. AWS Account

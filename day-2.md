@@ -57,6 +57,42 @@ Operating systems transformed computing by providing:
 - **User-Friendly Interfaces** - Making computers accessible to everyone
 - **Device Independence** - Applications work across different hardware configurations
 
+## Types of Operating Systems
+
+There are several major operating systems available today, each with their own strengths and use cases:
+
+### Windows
+- **Developer**: Microsoft
+- **Market Share**: Dominant in desktop computing
+- **Strengths**: User-friendly interface, extensive software compatibility, gaming support
+- **Common Uses**: Personal computers, business workstations, gaming
+
+### macOS
+- **Developer**: Apple
+- **Market Share**: Popular among creative professionals
+- **Strengths**: Seamless integration with Apple ecosystem, security, design-focused
+- **Common Uses**: Creative work, development, premium personal computing
+
+### Linux
+- **Developer**: Open-source community
+- **Market Share**: Dominates server and cloud infrastructure
+- **Strengths**: Open-source, highly customizable, secure, lightweight
+- **Common Uses**: Servers, cloud computing, development, embedded systems
+
+## Linux in DevOps
+
+For this bootcamp, we will be using **Linux operating systems** as they power approximately **80% of the world's IT infrastructure**. Linux is the backbone of modern DevOps for several key reasons:
+
+- **Server Dominance** - Most web servers, cloud platforms, and enterprise systems run Linux
+- **Container Technology** - Docker and Kubernetes are built on Linux foundations
+- **Command Line Power** - Advanced scripting and automation capabilities
+- **Open Source** - Free, customizable, and community-supported
+- **Stability** - Reliable performance for mission-critical applications
+- **Security** - Robust security model and regular updates
+- **Cloud Computing** - All major cloud providers (AWS, Azure, GCP) primarily use Linux
+
+Understanding Linux is essential for any DevOps professional, as it provides the foundation for modern infrastructure, containerization, orchestration, and automation tools that define the DevOps landscape.
+
 
 
 
